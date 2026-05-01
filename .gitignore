@@ -1,0 +1,4 @@
+.env
+__pycache__/
+venv
+groq_cli.egg-info
